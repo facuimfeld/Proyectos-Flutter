@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "734216779380",
+    "project_id": "sysacad-d80d7",
+    "storage_bucket": "sysacad-d80d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734216779380:android:6e6aec73d99f1053510321",
+        "android_client_info": {
+          "package_name": "com.HopeTechnology.MiUTNFRRe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734216779380-h01t6o91btqk69vf7t3cfm5qa8h5085c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.HopeTechnology.MiUTNFRRe",
+            "certificate_hash": "eed44500a406e75146a68f1ab8a0f969da8bcc13"
+          }
+        },
+        {
+          "client_id": "734216779380-ed7vufap27j18lfmtkpjkjf66fj4rhfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSFMHebyMjWs1TPr6dJ4_tRST5gKmuOMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734216779380-ed7vufap27j18lfmtkpjkjf66fj4rhfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
